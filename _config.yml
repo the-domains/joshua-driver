@@ -1,0 +1,12 @@
+layout_spectrum: 0.7126746
+typography_spectrum: 0.2486573
+color:
+  saturation: 0.6357176
+  lightness: 0.4662649
+  brandStrength: 0.9790547
+  brandColors:
+    - '#312F30'
+    - '#FFFFFF'
+    - '#9B9A9B'
+  rhythmicContrast: 0.2927266
+name: Joshua Driver
